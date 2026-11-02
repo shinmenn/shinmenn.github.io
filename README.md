@@ -27,7 +27,7 @@ Explore my projects, skills, and experience on my personal website:
 ### Contact
 
 - GitHub: [@shinmenn](https://github.com/shinmenn)
-- Telegram: [@](https://t.me/)
+- Telegram: [@gkqdx](https://t.me/gkqdx)
 - Email: execdoto@mail.ru
 
 ---

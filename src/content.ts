@@ -4,7 +4,7 @@ export type L<T> = Record<Lang, T>;
 export const config = {
   name: "Shinmenn",
   github: "https://github.com/shinmenn",
-  telegram: "https://t.me/",
+  telegram: "https://t.me/gkqdx",
   email: "execdoto@mail.ru",
   resume: "",
 };
